@@ -1,0 +1,30 @@
+Author	Wyld, James, 1812-1887
+Author	Wyld, James, 1790-1836
+Date	1837
+Short Title	The World on Mercators projection
+Publisher	James Wyld
+Publisher Location	London
+Type	Atlas Map
+Obj Height cm	63
+Obj Width cm	92
+Scale 1	43,000,000
+Note	Folded engraved, hand-colored in outline map of the world from the early 19th century, it depicts most of the world's broad geographical outlines. Greenland and Antarctica appear much larger relative to land masses near the equator than they actually are. Relief shown by hacures.
+World Area	World
+Full Title	The World on Mercators projection. By James Wyld. 1837. London : Published by James Wyld. (to accompany) A new general atlas of modern geography : consisting of a complete collection of maps of the four quarters of the globe ...
+List No	13170.005
+Page No	2
+Series No	5
+Publication Author	Wyld, James, 1812-1887
+Publication Author	Wyld, James, 1790-1836
+Pub Date	1838
+Pub Title	A new general atlas of modern geography : consisting of a complete collection of maps of the four quarters of the globe : delineating their physical features and colored to show the limits of their respective states : including also the latest geographical & nautical discoveries. London: Published by James Wyld, charing Cross East, Geographer to the King.
+Pub Note	Wyld’s general atlas in 58 pages, with engraved title and contents within decorative border printed in green. Contains 55 engraved maps, most dated 1838, hand color in outline, mostly double page and some folded, three engraved comparative charts of mountains and rivers and itinerary measures. Bound in red grained morocco, incorporating original marbled paper covered boards, original engraved title label on the front cover, and title “Wyld’s general atlas” in gilt in on spine. Atlas containing very detailed maps of the world with an emphasis on Europe, but with several important maps showing the Americas, Asia, Africa and Australia. Most of the maps have a small vignette illustrating a feature of the region. This large general atlas by Wyld is far more rare than his smaller general atlas of 1824, see our 2713.000
+Pub List No	13170.000
+Pub Type	World Atlas
+Pub Maps	55
+Pub Height cm	60
+Pub Width cm	40
+Image No	13170005.jp2
+Download 1	<a href=http://www.davidrumsey.com/rumsey/download.pl?image=/179/13170005.jp2 target=_blank>Full Image Download in JP2 Format</a>
+Download 2	<a href=https://www.extensis.com/support/geoviewer-9 target=_blank >GeoViewer for JP2 and SID files</a>
+Authors	Wyld, James, 1812-1887; Wyld, James, 1790-1836
